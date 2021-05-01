@@ -9,4 +9,4 @@ import Foundation
 
 print("Hello World")
 
-print("Update in leader")
+print("Update in Local B")
