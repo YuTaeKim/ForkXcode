@@ -14,3 +14,5 @@ print("Update in local A")
 print("Update in local B")
 
 print("Update in leader")
+
+print("Hello world 3 in team member C local server")
